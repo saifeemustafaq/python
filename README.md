@@ -1,3 +1,3 @@
 # python
 
-You can view the syllabus [here](https://github.com/saifeemustafaq/pypy/blob/main/syllabus.md)
+You can view the syllabus [here](https://github.com/saifeemustafaq/python/blob/main/syllabus.md)
